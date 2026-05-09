@@ -6,11 +6,24 @@
     "wu_mean_psnr": 16.87506103515625,
     "wu_min_psnr": 13.175202369689941,
     "wu_max_psnr": 17.76247215270996,
-    "wadhwa_mean_psnr": 8.971367835998535,
-    "wadhwa_min_psnr": 8.96537971496582,
-    "wadhwa_max_psnr": 8.983458518981934,
+    "wadhwa_mean_psnr": 28.848604202270508,
+    "wadhwa_min_psnr": 27.107038497924805,
+    "wadhwa_max_psnr": 33.48442840576172,
     "wu_mean_diff": 27.548986434936523,
-    "wadhwa_mean_diff": 86.00747680664062
+    "wadhwa_mean_diff": 5.209000110626221
+  },
+  {
+    "video_name": "crane",
+    "fps": 24.0,
+    "frame_count": 215,
+    "wu_mean_psnr": 17.01584243774414,
+    "wu_min_psnr": 16.167194366455078,
+    "wu_max_psnr": 17.460498809814453,
+    "wadhwa_mean_psnr": 23.396020889282227,
+    "wadhwa_min_psnr": 21.964588165283203,
+    "wadhwa_max_psnr": 26.911834716796875,
+    "wu_mean_diff": 16.918689727783203,
+    "wadhwa_mean_diff": 7.1683220863342285
   },
   {
     "video_name": "face",
@@ -19,23 +32,10 @@
     "wu_mean_psnr": 20.974681854248047,
     "wu_min_psnr": 14.966804504394531,
     "wu_max_psnr": 23.552967071533203,
-    "wadhwa_mean_psnr": 9.487519264221191,
-    "wadhwa_min_psnr": 9.475691795349121,
-    "wadhwa_max_psnr": 9.499330520629883,
+    "wadhwa_mean_psnr": 28.7679500579834,
+    "wadhwa_min_psnr": 26.62384033203125,
+    "wadhwa_max_psnr": 36.39838790893555,
     "wu_mean_diff": 16.10358428955078,
-    "wadhwa_mean_diff": 81.1574935913086
-  },
-  {
-    "video_name": "crane",
-    "fps": 24.0,
-    "frame_count": 215,
-    "wu_mean_psnr": 14.876224517822266,
-    "wu_min_psnr": 13.998153686523438,
-    "wu_max_psnr": 15.335851669311523,
-    "wadhwa_mean_psnr": 10.561400413513184,
-    "wadhwa_min_psnr": 10.54330062866211,
-    "wadhwa_max_psnr": 10.609949111938477,
-    "wu_mean_diff": 31.0108642578125,
-    "wadhwa_mean_diff": 67.99871063232422
+    "wadhwa_mean_diff": 5.571572780609131
   }
 ]
